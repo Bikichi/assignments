@@ -1,0 +1,28 @@
+In this exercise: you have to find a game on the google play store for cloning that game for the purpose of getting familiar with the game industry especially the mobile game market.
+there are some criteria must match:
+- the game must be a complete game
+- having enough the most popular features such as: social features (usings fbsdk, google playgame), showing ads, IAP, achievements, leaderboard.
+good to have:
+- user has progress in game.
+- save and load data.
+
+submit:
+- listing all the screens of the game
+- labling those screens (describing the scene features)
+- creating a google slides for the game to introduce all the features of the game. (only the those images above and its names)
+- atlest 2 games (for having option to choose in case the game does not match the criteria)
+
+(at the end, this will be your first game project then you would not know if it's too hard or too easy, can you done it or not at first, so no worr, just find out with those guesstion and the I will give you some tips. also do not be shine to choose a game too small, we can even adding on it more features if you have more time)
+
+ref:
+(because of the time limitation of the end term project, there are some restriction)
+
+- minimum requirement
+Flippy Bird - Flying bird
+https://play.google.com/store/apps/details?id=com.KCCreations.FlippyBird&hl=en
+
+- maximum requirement
+Pixel Adventure - Platformer
+https://play.google.com/store/apps/details?id=com.APgames.UnplannedAdventure&hl=vi&gl=US
+
+suggestion: some endless minigames, Jurassic Dinosaur Jumping Run, Jurassic Jump!
