@@ -1,0 +1,13 @@
+1. Practicing with Trello (using for manage the end-term project)
+  1.0 taking screen shot of the whole process
+  1.1 signing up for a trello account
+  1.2 create a board for a demo project
+  1.3 practicing create, update, delete,... (using trello feature)
+  1.4 creating a google slide with title for each screen showing your practice
+  
+2. Creating cards for tasking the end-term project and inserting the link to your trello board on th google sheet.
+  suggestion:
+    - deviding your game project features by screens, creating one list for each screen or big thing.
+    - in the list: creating card for each function, task to do to finish the screen, function. (as detailed as possible)
+    - after creating cards for the whole project, try to estimate the time for each card then you can sum up to have the total time for complishing the game. of course, it's only an obervasion. life isn't all that rosy.
+    
